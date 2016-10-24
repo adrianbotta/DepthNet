@@ -1,3 +1,3 @@
 # DepthNet
 
-<img src="DepthNet_results.png" width="320">
+<img src="DepthNet_results.png" width="480">
