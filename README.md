@@ -1,3 +1,3 @@
 # DepthNet
 
-![My image](DepthNet_results.png)
+<img src="DepthNet_results.png" width="320">
